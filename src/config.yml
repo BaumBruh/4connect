@@ -1,0 +1,20 @@
+#╔═══╗                     ╔╗     ╔╗ ╔╗
+#║╔═╗║                    ╔╝╚╗    ║║ ║║
+#║║ ╚╝╔══╗╔═╗ ╔═╗ ╔══╗╔══╗╚╗╔╝    ║╚═╝║
+#║║ ╔╗║╔╗║║╔╗╗║╔╗╗║╔╗║║╔═╝ ║║     ╚══╗║
+#║╚═╝║║╚╝║║║║║║║║║║║═╣║╚═╗ ║╚╗       ║║
+#╚═══╝╚══╝╚╝╚╝╚╝╚╝╚══╝╚══╝ ╚═╝       ╚╝
+#                 A plugin made by Baum
+
+#READ ME
+# To request a match do /4connect [name]
+# To accept a match do /4connect accept [name of the requester]
+
+#If you encounter any bugs or have suggestions, please contact me on this discord: https://discord.gg/HgB7FZM7fp
+
+
+4connect:
+  #Do you want the win to be broadcasted on the whole server?
+  broadcast: false
+
+

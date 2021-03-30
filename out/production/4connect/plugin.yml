@@ -1,0 +1,15 @@
+name: 4connect
+version: 1.0
+main: de.baum.connect.main.Main
+api-version: 1.16
+
+commands:
+  connectreload:
+    description: "Reload the plugin"
+  4connect:
+    description: "Play a 4connect game"
+
+permissions:
+  4connect.admin:
+    description: "Access to all the 4connect plugin Admin Commands!"
+    default: op

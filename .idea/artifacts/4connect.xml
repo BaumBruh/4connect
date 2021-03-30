@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="4connect">
+    <output-path>D:/server/plugins</output-path>
+    <root id="archive" name="4connect.jar">
+      <element id="module-output" name="4connect" />
+    </root>
+  </artifact>
+</component>
